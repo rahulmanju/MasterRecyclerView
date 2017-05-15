@@ -1,7 +1,8 @@
+
 # MasterRecyclerView
 Modified Recycler View with Helper Adapters to create list with different view type, Sticky Views,Expandable Lists etc,using very simple,scalable and flexible architecure
 
-# What we have moified in recycler view
+## What we have moified in recycler view
 We added item postion in signature of onCreateViewHolder method and it helped us to create nested adapter architecture 
     Default Signature :
             void onCreateViewHolder(ViewGroup parent, int viewType)
