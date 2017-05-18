@@ -9,5 +9,3 @@ We added item postion in signature of onCreateViewHolder method and it helped us
    #### Modifed Signature :
                void onCreateViewHolder(ViewGroup parent, int viewType,int position)
  This is the only change we have done in recyler view 
- 
- Now lets see the Magic,Download sample from below link
